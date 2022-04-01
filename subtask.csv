@@ -1,0 +1,20 @@
+subtaskid,subtaskcreated_by_id,subtaskcompleted_by_id,subtaskmatroshkaRevision,subtaskcreated_at,subtaskrevision,subtaskcompleted,subtasktype,subtasktitle,subtasktask_id,subtaskisTemporary,subtaskrequestID,subtaskwasLocallyCreated,subtaskcompleted_at
+1554178884,82545110,null,0,2018-04-03T17:01:14.677Z,1,false,subtask,"Review Manguarian Proposal",3719100100,false,lwfbeb9bb6c96b5e2f819eda1fc26fe6,false,null
+1554178853,82545110,null,0,2018-04-03T17:01:09.460Z,1,false,subtask,"Biz Journal List",3719100100,false,lw91f9b78c1d43dc79b69f202bb01618,false,null
+1554178829,82545110,null,0,2018-04-03T17:01:03.596Z,1,false,subtask,"National Young Professionals Board",3719100100,false,lwe2c1fe3dc774b08de8d9dcb56f3e34,false,null
+1554178395,82545110,null,0,2018-04-03T17:00:13.257Z,1,false,subtask,"Altitude Guide - For our case for support",3719100100,false,lw3f6b9f49d58e35daaf525605f8d82b,false,null
+1554178437,82545110,null,0,2018-04-03T17:00:20.825Z,1,false,subtask,"Come up with the traits of prospects that are a fit for us",3719100100,false,lwf5301b9aa192803b5c8e88c0a8be59,false,null
+1554178116,82545110,null,0,2018-04-03T16:59:40.938Z,2,false,subtask,"Build our connector list and come up with a list of prospects we could connect to - Talk to Arizona chapter about it",3719100100,false,lw892e9823f0a71ed8c24cc4e20fbeae,false,null
+1554178299,82545110,null,0,2018-04-03T17:00:02.658Z,1,false,subtask,"Family Foundation list",3719100100,false,lwb25ae1ecdd7d6c329f1d887777ce6b,false,null
+1554177197,82545110,null,0,2018-04-03T16:57:16.030Z,1,false,subtask,"This is how you can help document",3719100100,false,lw3f087b1a449fe794c1e423c36dbcea,false,null
+1554177225,82545110,null,0,2018-04-03T16:57:18.575Z,2,false,subtask,"Book of wishes - Wishes come true",3719100100,false,lwbe4b86c61c6552dd503b12a69814b7,false,null
+1554177172,82545110,null,0,2018-04-03T16:57:10.724Z,1,false,subtask,"Find Another West H",3719100100,false,lw0fe23a2ff2d1eb11fa062cbf51cdab,false,null
+1718820774,82545110,null,0,2019-04-15T17:02:32.000Z,1,false,subtask,"Samsung Galaxy Recordings",4927259267,false,0D98D8D3-6876-47CF-889F-6AE6DF1849A9,false,null
+1718820735,82545110,null,0,2019-04-15T17:02:24.095Z,1,false,subtask,"Super Old Iphone Recordings",4927259267,false,F5310507-DC0E-4506-BB7C-6FC38231A9EF,false,null
+1718819653,82545110,null,0,2019-04-15T17:00:08.620Z,1,false,subtask,"Old Audacity Recordings",4927259267,false,F91BEDB7-629D-4642-8ECF-45950AF0DA20,false,null
+1718820658,82545110,null,0,2019-04-15T17:02:15.118Z,1,false,subtask,"Old Iphone Recordings",4927259267,false,CA01D2D3-E4E3-45E7-821A-697A286712C6,false,null
+1718886917,82545110,null,0,2019-04-15T19:40:17.747Z,1,false,subtask,"Google Docs",4927273269,false,D0E18D12-1A94-46B6-89C4-54E6A0487650,false,null
+1718886909,82545110,null,0,2019-04-15T19:40:15.774Z,1,false,subtask,"Evernote",4927273269,false,1147EB71-5692-41F2-859C-BE90C79D6CF2,false,null
+1719006219,82545110,null,0,2019-04-16T03:08:44.092Z,1,false,subtask,"Race",4928559079,false,F2EC4545-9CF8-4D7C-9648-042DFFB9932A,false,null
+1719006211,82545110,null,0,2019-04-16T03:08:42.658Z,1,false,subtask,"Life",4928559079,false,D1FE7263-AB7A-4FA7-98A1-613FE29C805E,false,null
+1719005985,82545110,null,0,2019-04-16T03:07:44.848Z,1,false,subtask,"Fundraising 100 serieis",4928559079,false,B4DB4090-DCD3-4735-8297-C6E94A6BEA22,false,null
